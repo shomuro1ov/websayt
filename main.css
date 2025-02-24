@@ -1,0 +1,30 @@
+.conteaner {
+display: flex;
+margin: 10px;
+padding: 10px;
+justify-content: center;
+align-items: center;
+}
+.box{
+border: 1px solid black;
+width: 100px;
+height: 100px;
+margin: 10px;
+
+}
+h1{
+    background-color: darkgray;
+    text-align: center;
+}
+p{
+    background-color: darkturquoise;
+}
+.box1{
+    background-color: blue;
+}
+.box2{
+    background-color: crimson;
+}
+.box3{
+    background-color: darkviolet;
+}
